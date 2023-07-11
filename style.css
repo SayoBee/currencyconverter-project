@@ -1,0 +1,19 @@
+:root{
+    background-image: url(./image/dollar.jpg);
+    /* background-repeat: no-repeat; */
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+.all input{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    background-color: transparent;
+}
+.all button{
+    background-color: yellow;
+    border-radius: 20%;
+    padding: 4px;
+}
